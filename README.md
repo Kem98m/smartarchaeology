@@ -4,8 +4,8 @@ autonomous system that can navigate itself on sites using computer vision
 
 The guide for set up is found in the f1tenth.org website and the research projects done on this topic
 
-# [f1tenth](http://f1tenth.org/build.html)
-# [Autonomous Robots Lab](https://www.autonomousrobotslab.com/autonomous-navigation-and-exploration.html)
+#### [f1tenth](http://f1tenth.org/build.html)
+#### [Autonomous Robots Lab](https://www.autonomousrobotslab.com/autonomous-navigation-and-exploration.html)
 
 We used similar methods and are adding the use of a depth camera. An algorithm will be constructed in which the robot will detect and avoid obstacles such as holes.
 
