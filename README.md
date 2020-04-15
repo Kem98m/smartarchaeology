@@ -1,5 +1,7 @@
 # smartarchaeology
-autonomous system that can navigate itself on sites using computer vision
+A project group to work on developing the technology for autonomous exploration. This work hopes to achieve a means of safer and more accurate mapping of dangerous excavation sites. With sites that are unstable or partially collapsed ruins, we hope to be able to send robots that can document these areas. We do this using a rover and various sensors such as a lidar and depth camera to accurately map and record.
+
+Two rovers are being used in this project. A built from scratch rover following the guidelines found in the f1tenth website seen below. 
 
 The guide for set up is found in the f1tenth.org website and the research projects done on this topic
 
