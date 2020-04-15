@@ -1,5 +1,4 @@
 # smartarchaeology
-## Achilles D., Himanshu J., Kenneth M.
 autonomous system that can navigate itself on sites using computer vision
 
 The guide for set up is found in the f1tenth.org website and the research projects done on this topic
